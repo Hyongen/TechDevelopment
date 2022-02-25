@@ -1,0 +1,24 @@
+*{
+    background-color:azure;
+}
+
+.imagen {
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+}
+
+.barrita {
+    background-color: black;
+    height: 1px;
+    
+}
+
+body {
+    margin: 0;
+}
+
+.barraSuperior{
+    display: flex;
+    flex-direction: row;
+}
