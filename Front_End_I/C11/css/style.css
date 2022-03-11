@@ -1,14 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 *{
-    margin:0px;
+    margin: 0px;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
 
+
+
+
 body{
     background-color: #F3F3F3;
 }
+
+
+
 
 header {
     background-color:#222222;
@@ -42,7 +48,6 @@ section .article1 {
     width: 490px;
     height: 350px;
 }
-
 section .article1 h2{
     top:20px;
     left:20px;
